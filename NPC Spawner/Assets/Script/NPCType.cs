@@ -2,5 +2,8 @@ public enum NPCType
 {
     Farmer,
     Beggar,
-    ShopOwner
+    ShopOwner,
+    Lord,
+    Thief,
+    Guard
 }

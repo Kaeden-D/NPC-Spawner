@@ -1,4 +1,4 @@
 public interface INPC
 {
-    void Speak();
+    void Speak(NPCType type);
 }
